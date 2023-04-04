@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anirban Bhattacharjee (@AnirbanB02)
 - 👀 I’m interested in Building web pages and applications
-- 🌱 I’m currently learning PHP and MySQL for backend dev
-- 💞️ I’m looking to collaborate on projects that have ReactJs, JS, CSS, HTML, PHP, MySQL techstack in it
+- 🌱 I’m currently learning MERN and other Fullstack Technologies to make Fullstack Web-Apps
+- 💞️ I’m looking to collaborate on projects that have ReactJs, Node.js, Express.js, MongoDB, JS(Vanilla), CSS, HTML, techstack in it
 - 📫 How to reach me?
       email ID: anirbaniem02@gmail.com
 
